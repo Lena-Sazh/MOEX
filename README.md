@@ -1,6 +1,6 @@
-<--
-![Logo Light](https://github.com/Lena-Sazh/SovaCapital/blob/master/src/test/resources/images/Sova_white.svg#gh-dark-mode-only)
-![Logo Dark](https://github.com/Lena-Sazh/SovaCapital/blob/master/src/test/resources/images/Sova_black.svg#gh-light-mode-only)
+![MOEX logo](https://github.com/Lena-Sazh/MOEX/blob/master/src/test/resources/images/MOEX_logo_en.jpg)
+
+<!--
 
 ## UI Test Automation Project :owl:
   
@@ -109,4 +109,5 @@ Test results are also send by Telegram bot as notifications with clickable link 
 And finally there is a short video report of test case execution
   
 ![Video report](https://github.com/Lena-Sazh/SovaCapital/blob/master/src/test/resources/images/Video.gif)
+
 -->
