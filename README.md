@@ -1,6 +1,8 @@
 ![MOEX logo](https://github.com/Lena-Sazh/MOEX/blob/master/src/test/resources/images/MOEX_logo_en.jpg)
 
+
 <!--
+![MOEX logo gif](https://github.com/Lena-Sazh/MOEX/blob/master/src/test/resources/images/MOEX_logo.gif)
 
 ## UI Test Automation Project :owl:
   
