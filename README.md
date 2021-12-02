@@ -1,14 +1,8 @@
 ![MOEX logo](https://github.com/Lena-Sazh/MOEX/blob/master/src/test/resources/images/MOEX_logo_en.jpg)
 
-
-<!--
-![MOEX logo gif](https://github.com/Lena-Sazh/MOEX/blob/master/src/test/resources/images/MOEX_logo.gif)
-
-## UI Test Automation Project :owl:
+## Test Automation Project *(now in progress)*
   
-### Simple manual & automated tests examples for <a href="https://sovacapital.com">Sova Capital website</a>
-
-![Main Page](https://github.com/Lena-Sazh/SovaCapital/blob/master/src/test/resources/images/Sova_Capital.png)
+### Simple automated UI and API tests examples for <a href="https://moex.com">MOEX website</a>
 ____
 
 *DISCLAIMER*
@@ -30,6 +24,8 @@ ____
 <code><img height="30" title="Allure TestOps" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Allure_EE.svg"></code>
 <code><img height="30" title="Telegram" src="https://github.com/Lena-Sazh/Lena-Sazh/blob/main/src/test/resources/logo/Telegram.svg"></code>
 ____
+
+<!--
 
 ### :gear: Jenkins job
 To run <a href="https://jenkins.autotests.cloud/job/SovaCapital_Tests/">job</a> we can choose "Run with parameters" option and pass **target params** for tests
