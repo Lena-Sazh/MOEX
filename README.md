@@ -1,6 +1,6 @@
 ![MOEX logo](https://github.com/Lena-Sazh/MOEX/blob/master/src/test/resources/images/MOEX_logo_en.jpg)
 
-## Test Automation Project *(now in progress)*
+## Test Automation Project :chart_with_upwards_trend: *(now in progress)*
   
 ### Simple automated UI and API tests examples for <a href="https://moex.com">MOEX website</a>
 ____
