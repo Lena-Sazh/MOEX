@@ -27,6 +27,8 @@ ____
 
 <!--
 
+:pushpin:
+
 ### :gear: Jenkins job
 To run <a href="https://jenkins.autotests.cloud/job/SovaCapital_Tests/">job</a> we can choose "Run with parameters" option and pass **target params** for tests
 
