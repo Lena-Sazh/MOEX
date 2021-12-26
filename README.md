@@ -1,3 +1,9 @@
+<p align="right">
+<a href="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Lena-sazh.MOEX&color=E1113A&style=plastic&logo=Github&text=Hello_Visitors!">
+  <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Lena-sazh.MOEX&color=E1113A&style=plastic&logo=Github&text=Hello_Visitors!"/>
+</a>
+</p>
+
 ![MOEX logo](https://github.com/Lena-Sazh/MOEX/blob/master/src/test/resources/images/MOEX_logo_en.jpg)
 
 ## Test Automation Project :chart_with_upwards_trend: *(now in progress)*
